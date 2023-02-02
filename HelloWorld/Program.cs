@@ -31,7 +31,7 @@ namespace HelloWorld
             Console.Write("мир ");
             Console.Write("!!!");
 
-            Console.ReadKey();                 // Ожидание от пользвателя
+            Console.ReadLine();                 // Ожидание от пользвателя
                                                // Нажатия какой-либо кнопки
         }
     }
